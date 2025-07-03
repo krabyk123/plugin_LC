@@ -1,0 +1,1125 @@
+2025-06-05 12:18:47 Попытка для 2: Вы отменили запись на урок "Тестовый урок 1000" 05.06.2025 15:18
+2025-06-05 12:18:47 Telegram result: Array
+(
+    [headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+        (
+            [data:protected] => Array
+                (
+                    [server] => nginx/1.18.0
+                    [date] => Thu, 05 Jun 2025 12:18:47 GMT
+                    [content-type] => application/json
+                    [content-length] => 580
+                    [strict-transport-security] => max-age=31536000; includeSubDomains; preload
+                    [access-control-allow-origin] => *
+                    [access-control-allow-methods] => GET, POST, OPTIONS
+                    [access-control-expose-headers] => Content-Length,Content-Type,Date,Server,Connection
+                )
+
+        )
+
+    [body] => {"ok":true,"result":{"message_id":12,"from":{"id":8041510676,"is_bot":true,"first_name":"\u0423\u0447\u0435\u0431\u043d\u044b\u0439 \u0431\u043e\u0442","username":"lesson_study_bot"},"chat":{"id":215462951,"first_name":"\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440","username":"IndAlex","type":"private"},"date":1749125927,"text":"\u0412\u044b \u043e\u0442\u043c\u0435\u043d\u0438\u043b\u0438 \u0437\u0430\u043f\u0438\u0441\u044c \u043d\u0430 \u0443\u0440\u043e\u043a \"\u0422\u0435\u0441\u0442\u043e\u0432\u044b\u0439 \u0443\u0440\u043e\u043a 1000\" 05.06.2025 15:18"}}
+    [response] => Array
+        (
+            [code] => 200
+            [message] => OK
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+    [http_response] => WP_HTTP_Requests_Response Object
+        (
+            [data] => 
+            [headers] => 
+            [status] => 
+            [response:protected] => WpOrg\Requests\Response Object
+                (
+                    [body] => {"ok":true,"result":{"message_id":12,"from":{"id":8041510676,"is_bot":true,"first_name":"\u0423\u0447\u0435\u0431\u043d\u044b\u0439 \u0431\u043e\u0442","username":"lesson_study_bot"},"chat":{"id":215462951,"first_name":"\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440","username":"IndAlex","type":"private"},"date":1749125927,"text":"\u0412\u044b \u043e\u0442\u043c\u0435\u043d\u0438\u043b\u0438 \u0437\u0430\u043f\u0438\u0441\u044c \u043d\u0430 \u0443\u0440\u043e\u043a \"\u0422\u0435\u0441\u0442\u043e\u0432\u044b\u0439 \u0443\u0440\u043e\u043a 1000\" 05.06.2025 15:18"}}
+                    [raw] => HTTP/1.1 200 OK
+Server: nginx/1.18.0
+Date: Thu, 05 Jun 2025 12:18:47 GMT
+Content-Type: application/json
+Content-Length: 580
+Connection: close
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET, POST, OPTIONS
+Access-Control-Expose-Headers: Content-Length,Content-Type,Date,Server,Connection
+
+{"ok":true,"result":{"message_id":12,"from":{"id":8041510676,"is_bot":true,"first_name":"\u0423\u0447\u0435\u0431\u043d\u044b\u0439 \u0431\u043e\u0442","username":"lesson_study_bot"},"chat":{"id":215462951,"first_name":"\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440","username":"IndAlex","type":"private"},"date":1749125927,"text":"\u0412\u044b \u043e\u0442\u043c\u0435\u043d\u0438\u043b\u0438 \u0437\u0430\u043f\u0438\u0441\u044c \u043d\u0430 \u0443\u0440\u043e\u043a \"\u0422\u0435\u0441\u0442\u043e\u0432\u044b\u0439 \u0443\u0440\u043e\u043a 1000\" 05.06.2025 15:18"}}
+                    [headers] => WpOrg\Requests\Response\Headers Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [server] => Array
+                                        (
+                                            [0] => nginx/1.18.0
+                                        )
+
+                                    [date] => Array
+                                        (
+                                            [0] => Thu, 05 Jun 2025 12:18:47 GMT
+                                        )
+
+                                    [content-type] => Array
+                                        (
+                                            [0] => application/json
+                                        )
+
+                                    [content-length] => Array
+                                        (
+                                            [0] => 580
+                                        )
+
+                                    [strict-transport-security] => Array
+                                        (
+                                            [0] => max-age=31536000; includeSubDomains; preload
+                                        )
+
+                                    [access-control-allow-origin] => Array
+                                        (
+                                            [0] => *
+                                        )
+
+                                    [access-control-allow-methods] => Array
+                                        (
+                                            [0] => GET, POST, OPTIONS
+                                        )
+
+                                    [access-control-expose-headers] => Array
+                                        (
+                                            [0] => Content-Length,Content-Type,Date,Server,Connection
+                                        )
+
+                                )
+
+                        )
+
+                    [status_code] => 200
+                    [protocol_version] => 1.1
+                    [success] => 1
+                    [redirects] => 0
+                    [url] => https://api.telegram.org/bot8041510676:AAFq3wKCjT-jX-KCCT3yql38bhL0IpzVcx4/sendMessage?chat_id=215462951&text=%D0%92%D1%8B+%D0%BE%D1%82%D0%BC%D0%B5%D0%BD%D0%B8%D0%BB%D0%B8+%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C+%D0%BD%D0%B0+%D1%83%D1%80%D0%BE%D0%BA+%22%D0%A2%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D1%8B%D0%B9+%D1%83%D1%80%D0%BE%D0%BA+1000%22+05.06.2025+15%3A18
+                    [history] => Array
+                        (
+                        )
+
+                    [cookies] => WpOrg\Requests\Cookie\Jar Object
+                        (
+                            [cookies:protected] => Array
+                                (
+                                )
+
+                        )
+
+                )
+
+            [filename:protected] => 
+        )
+
+)
+
+2025-06-05 12:18:47 Попытка для 7: Ученик Александр Александрович отменил запись на урок "Тестовый урок 1000" (05.06.2025 15:18)
+2025-06-05 12:18:47 Telegram result: Array
+(
+    [headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+        (
+            [data:protected] => Array
+                (
+                    [server] => nginx/1.18.0
+                    [date] => Thu, 05 Jun 2025 12:18:47 GMT
+                    [content-type] => application/json
+                    [content-length] => 706
+                    [strict-transport-security] => max-age=31536000; includeSubDomains; preload
+                    [access-control-allow-origin] => *
+                    [access-control-allow-methods] => GET, POST, OPTIONS
+                    [access-control-expose-headers] => Content-Length,Content-Type,Date,Server,Connection
+                )
+
+        )
+
+    [body] => {"ok":true,"result":{"message_id":13,"from":{"id":8041510676,"is_bot":true,"first_name":"\u0423\u0447\u0435\u0431\u043d\u044b\u0439 \u0431\u043e\u0442","username":"lesson_study_bot"},"chat":{"id":7043332063,"first_name":"Deril","last_name":"Baxter","username":"bubjka","type":"private"},"date":1749125927,"text":"\u0423\u0447\u0435\u043d\u0438\u043a \u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440 \u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u043e\u0432\u0438\u0447 \u043e\u0442\u043c\u0435\u043d\u0438\u043b \u0437\u0430\u043f\u0438\u0441\u044c \u043d\u0430 \u0443\u0440\u043e\u043a \"\u0422\u0435\u0441\u0442\u043e\u0432\u044b\u0439 \u0443\u0440\u043e\u043a 1000\" (05.06.2025 15:18)"}}
+    [response] => Array
+        (
+            [code] => 200
+            [message] => OK
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+    [http_response] => WP_HTTP_Requests_Response Object
+        (
+            [data] => 
+            [headers] => 
+            [status] => 
+            [response:protected] => WpOrg\Requests\Response Object
+                (
+                    [body] => {"ok":true,"result":{"message_id":13,"from":{"id":8041510676,"is_bot":true,"first_name":"\u0423\u0447\u0435\u0431\u043d\u044b\u0439 \u0431\u043e\u0442","username":"lesson_study_bot"},"chat":{"id":7043332063,"first_name":"Deril","last_name":"Baxter","username":"bubjka","type":"private"},"date":1749125927,"text":"\u0423\u0447\u0435\u043d\u0438\u043a \u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440 \u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u043e\u0432\u0438\u0447 \u043e\u0442\u043c\u0435\u043d\u0438\u043b \u0437\u0430\u043f\u0438\u0441\u044c \u043d\u0430 \u0443\u0440\u043e\u043a \"\u0422\u0435\u0441\u0442\u043e\u0432\u044b\u0439 \u0443\u0440\u043e\u043a 1000\" (05.06.2025 15:18)"}}
+                    [raw] => HTTP/1.1 200 OK
+Server: nginx/1.18.0
+Date: Thu, 05 Jun 2025 12:18:47 GMT
+Content-Type: application/json
+Content-Length: 706
+Connection: close
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET, POST, OPTIONS
+Access-Control-Expose-Headers: Content-Length,Content-Type,Date,Server,Connection
+
+{"ok":true,"result":{"message_id":13,"from":{"id":8041510676,"is_bot":true,"first_name":"\u0423\u0447\u0435\u0431\u043d\u044b\u0439 \u0431\u043e\u0442","username":"lesson_study_bot"},"chat":{"id":7043332063,"first_name":"Deril","last_name":"Baxter","username":"bubjka","type":"private"},"date":1749125927,"text":"\u0423\u0447\u0435\u043d\u0438\u043a \u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440 \u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u043e\u0432\u0438\u0447 \u043e\u0442\u043c\u0435\u043d\u0438\u043b \u0437\u0430\u043f\u0438\u0441\u044c \u043d\u0430 \u0443\u0440\u043e\u043a \"\u0422\u0435\u0441\u0442\u043e\u0432\u044b\u0439 \u0443\u0440\u043e\u043a 1000\" (05.06.2025 15:18)"}}
+                    [headers] => WpOrg\Requests\Response\Headers Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [server] => Array
+                                        (
+                                            [0] => nginx/1.18.0
+                                        )
+
+                                    [date] => Array
+                                        (
+                                            [0] => Thu, 05 Jun 2025 12:18:47 GMT
+                                        )
+
+                                    [content-type] => Array
+                                        (
+                                            [0] => application/json
+                                        )
+
+                                    [content-length] => Array
+                                        (
+                                            [0] => 706
+                                        )
+
+                                    [strict-transport-security] => Array
+                                        (
+                                            [0] => max-age=31536000; includeSubDomains; preload
+                                        )
+
+                                    [access-control-allow-origin] => Array
+                                        (
+                                            [0] => *
+                                        )
+
+                                    [access-control-allow-methods] => Array
+                                        (
+                                            [0] => GET, POST, OPTIONS
+                                        )
+
+                                    [access-control-expose-headers] => Array
+                                        (
+                                            [0] => Content-Length,Content-Type,Date,Server,Connection
+                                        )
+
+                                )
+
+                        )
+
+                    [status_code] => 200
+                    [protocol_version] => 1.1
+                    [success] => 1
+                    [redirects] => 0
+                    [url] => https://api.telegram.org/bot8041510676:AAFq3wKCjT-jX-KCCT3yql38bhL0IpzVcx4/sendMessage?chat_id=7043332063&text=%D0%A3%D1%87%D0%B5%D0%BD%D0%B8%D0%BA+%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80+%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87+%D0%BE%D1%82%D0%BC%D0%B5%D0%BD%D0%B8%D0%BB+%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C+%D0%BD%D0%B0+%D1%83%D1%80%D0%BE%D0%BA+%22%D0%A2%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D1%8B%D0%B9+%D1%83%D1%80%D0%BE%D0%BA+1000%22+%2805.06.2025+15%3A18%29
+                    [history] => Array
+                        (
+                        )
+
+                    [cookies] => WpOrg\Requests\Cookie\Jar Object
+                        (
+                            [cookies:protected] => Array
+                                (
+                                )
+
+                        )
+
+                )
+
+            [filename:protected] => 
+        )
+
+)
+
+2025-06-05 12:55:54 Попытка для 11: Вы записались на урок "Урок 2" 05.06.2025 15:55
+2025-06-05 12:55:54 Нет chat_id для 11
+2025-06-05 12:55:55 Попытка для 8: На урок "Урок 2" (05.06.2025 15:55) записался ученик Анна Красная
+2025-06-05 12:55:55 Telegram result: Array
+(
+    [headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+        (
+            [data:protected] => Array
+                (
+                    [server] => nginx/1.18.0
+                    [date] => Thu, 05 Jun 2025 12:55:55 GMT
+                    [content-type] => application/json
+                    [content-length] => 752
+                    [strict-transport-security] => max-age=31536000; includeSubDomains; preload
+                    [access-control-allow-origin] => *
+                    [access-control-allow-methods] => GET, POST, OPTIONS
+                    [access-control-expose-headers] => Content-Length,Content-Type,Date,Server,Connection
+                )
+
+        )
+
+    [body] => {"ok":true,"result":{"message_id":18,"from":{"id":8041510676,"is_bot":true,"first_name":"\u0423\u0447\u0435\u0431\u043d\u044b\u0439 \u0431\u043e\u0442","username":"lesson_study_bot"},"chat":{"id":738239478,"first_name":"\u041d\u0430\u0442\u0430\u043b\u0438 \u2022 \u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u0441\u0430\u0439\u0442\u043e\u0432 \u2022 \u0412\u0435\u0431-\u0434\u0438\u0437\u0430\u0439\u043d","username":"natalikrasnoperova","type":"private"},"date":1749128155,"text":"\u041d\u0430 \u0443\u0440\u043e\u043a \"\u0423\u0440\u043e\u043a 2\" (05.06.2025 15:55) \u0437\u0430\u043f\u0438\u0441\u0430\u043b\u0441\u044f \u0443\u0447\u0435\u043d\u0438\u043a \u0410\u043d\u043d\u0430 \u041a\u0440\u0430\u0441\u043d\u0430\u044f"}}
+    [response] => Array
+        (
+            [code] => 200
+            [message] => OK
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+    [http_response] => WP_HTTP_Requests_Response Object
+        (
+            [data] => 
+            [headers] => 
+            [status] => 
+            [response:protected] => WpOrg\Requests\Response Object
+                (
+                    [body] => {"ok":true,"result":{"message_id":18,"from":{"id":8041510676,"is_bot":true,"first_name":"\u0423\u0447\u0435\u0431\u043d\u044b\u0439 \u0431\u043e\u0442","username":"lesson_study_bot"},"chat":{"id":738239478,"first_name":"\u041d\u0430\u0442\u0430\u043b\u0438 \u2022 \u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u0441\u0430\u0439\u0442\u043e\u0432 \u2022 \u0412\u0435\u0431-\u0434\u0438\u0437\u0430\u0439\u043d","username":"natalikrasnoperova","type":"private"},"date":1749128155,"text":"\u041d\u0430 \u0443\u0440\u043e\u043a \"\u0423\u0440\u043e\u043a 2\" (05.06.2025 15:55) \u0437\u0430\u043f\u0438\u0441\u0430\u043b\u0441\u044f \u0443\u0447\u0435\u043d\u0438\u043a \u0410\u043d\u043d\u0430 \u041a\u0440\u0430\u0441\u043d\u0430\u044f"}}
+                    [raw] => HTTP/1.1 200 OK
+Server: nginx/1.18.0
+Date: Thu, 05 Jun 2025 12:55:55 GMT
+Content-Type: application/json
+Content-Length: 752
+Connection: close
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET, POST, OPTIONS
+Access-Control-Expose-Headers: Content-Length,Content-Type,Date,Server,Connection
+
+{"ok":true,"result":{"message_id":18,"from":{"id":8041510676,"is_bot":true,"first_name":"\u0423\u0447\u0435\u0431\u043d\u044b\u0439 \u0431\u043e\u0442","username":"lesson_study_bot"},"chat":{"id":738239478,"first_name":"\u041d\u0430\u0442\u0430\u043b\u0438 \u2022 \u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u0441\u0430\u0439\u0442\u043e\u0432 \u2022 \u0412\u0435\u0431-\u0434\u0438\u0437\u0430\u0439\u043d","username":"natalikrasnoperova","type":"private"},"date":1749128155,"text":"\u041d\u0430 \u0443\u0440\u043e\u043a \"\u0423\u0440\u043e\u043a 2\" (05.06.2025 15:55) \u0437\u0430\u043f\u0438\u0441\u0430\u043b\u0441\u044f \u0443\u0447\u0435\u043d\u0438\u043a \u0410\u043d\u043d\u0430 \u041a\u0440\u0430\u0441\u043d\u0430\u044f"}}
+                    [headers] => WpOrg\Requests\Response\Headers Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [server] => Array
+                                        (
+                                            [0] => nginx/1.18.0
+                                        )
+
+                                    [date] => Array
+                                        (
+                                            [0] => Thu, 05 Jun 2025 12:55:55 GMT
+                                        )
+
+                                    [content-type] => Array
+                                        (
+                                            [0] => application/json
+                                        )
+
+                                    [content-length] => Array
+                                        (
+                                            [0] => 752
+                                        )
+
+                                    [strict-transport-security] => Array
+                                        (
+                                            [0] => max-age=31536000; includeSubDomains; preload
+                                        )
+
+                                    [access-control-allow-origin] => Array
+                                        (
+                                            [0] => *
+                                        )
+
+                                    [access-control-allow-methods] => Array
+                                        (
+                                            [0] => GET, POST, OPTIONS
+                                        )
+
+                                    [access-control-expose-headers] => Array
+                                        (
+                                            [0] => Content-Length,Content-Type,Date,Server,Connection
+                                        )
+
+                                )
+
+                        )
+
+                    [status_code] => 200
+                    [protocol_version] => 1.1
+                    [success] => 1
+                    [redirects] => 0
+                    [url] => https://api.telegram.org/bot8041510676:AAFq3wKCjT-jX-KCCT3yql38bhL0IpzVcx4/sendMessage?chat_id=738239478&text=%D0%9D%D0%B0+%D1%83%D1%80%D0%BE%D0%BA+%22%D0%A3%D1%80%D0%BE%D0%BA+2%22+%2805.06.2025+15%3A55%29+%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D0%B0%D0%BB%D1%81%D1%8F+%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%BA+%D0%90%D0%BD%D0%BD%D0%B0+%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%B0%D1%8F
+                    [history] => Array
+                        (
+                        )
+
+                    [cookies] => WpOrg\Requests\Cookie\Jar Object
+                        (
+                            [cookies:protected] => Array
+                                (
+                                )
+
+                        )
+
+                )
+
+            [filename:protected] => 
+        )
+
+)
+
+2025-06-05 12:56:26 Попытка для 11: Вы отменили запись на урок "Урок 2" 05.06.2025 15:56
+2025-06-05 12:56:26 Нет chat_id для 11
+2025-06-05 12:56:26 Попытка для 8: Ученик Анна Красная отменил запись на урок "Урок 2" (05.06.2025 15:56)
+2025-06-05 12:56:26 Telegram result: Array
+(
+    [headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+        (
+            [data:protected] => Array
+                (
+                    [server] => nginx/1.18.0
+                    [date] => Thu, 05 Jun 2025 12:56:26 GMT
+                    [content-type] => application/json
+                    [content-length] => 777
+                    [strict-transport-security] => max-age=31536000; includeSubDomains; preload
+                    [access-control-allow-origin] => *
+                    [access-control-allow-methods] => GET, POST, OPTIONS
+                    [access-control-expose-headers] => Content-Length,Content-Type,Date,Server,Connection
+                )
+
+        )
+
+    [body] => {"ok":true,"result":{"message_id":19,"from":{"id":8041510676,"is_bot":true,"first_name":"\u0423\u0447\u0435\u0431\u043d\u044b\u0439 \u0431\u043e\u0442","username":"lesson_study_bot"},"chat":{"id":738239478,"first_name":"\u041d\u0430\u0442\u0430\u043b\u0438 \u2022 \u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u0441\u0430\u0439\u0442\u043e\u0432 \u2022 \u0412\u0435\u0431-\u0434\u0438\u0437\u0430\u0439\u043d","username":"natalikrasnoperova","type":"private"},"date":1749128186,"text":"\u0423\u0447\u0435\u043d\u0438\u043a \u0410\u043d\u043d\u0430 \u041a\u0440\u0430\u0441\u043d\u0430\u044f \u043e\u0442\u043c\u0435\u043d\u0438\u043b \u0437\u0430\u043f\u0438\u0441\u044c \u043d\u0430 \u0443\u0440\u043e\u043a \"\u0423\u0440\u043e\u043a 2\" (05.06.2025 15:56)"}}
+    [response] => Array
+        (
+            [code] => 200
+            [message] => OK
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+    [http_response] => WP_HTTP_Requests_Response Object
+        (
+            [data] => 
+            [headers] => 
+            [status] => 
+            [response:protected] => WpOrg\Requests\Response Object
+                (
+                    [body] => {"ok":true,"result":{"message_id":19,"from":{"id":8041510676,"is_bot":true,"first_name":"\u0423\u0447\u0435\u0431\u043d\u044b\u0439 \u0431\u043e\u0442","username":"lesson_study_bot"},"chat":{"id":738239478,"first_name":"\u041d\u0430\u0442\u0430\u043b\u0438 \u2022 \u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u0441\u0430\u0439\u0442\u043e\u0432 \u2022 \u0412\u0435\u0431-\u0434\u0438\u0437\u0430\u0439\u043d","username":"natalikrasnoperova","type":"private"},"date":1749128186,"text":"\u0423\u0447\u0435\u043d\u0438\u043a \u0410\u043d\u043d\u0430 \u041a\u0440\u0430\u0441\u043d\u0430\u044f \u043e\u0442\u043c\u0435\u043d\u0438\u043b \u0437\u0430\u043f\u0438\u0441\u044c \u043d\u0430 \u0443\u0440\u043e\u043a \"\u0423\u0440\u043e\u043a 2\" (05.06.2025 15:56)"}}
+                    [raw] => HTTP/1.1 200 OK
+Server: nginx/1.18.0
+Date: Thu, 05 Jun 2025 12:56:26 GMT
+Content-Type: application/json
+Content-Length: 777
+Connection: close
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET, POST, OPTIONS
+Access-Control-Expose-Headers: Content-Length,Content-Type,Date,Server,Connection
+
+{"ok":true,"result":{"message_id":19,"from":{"id":8041510676,"is_bot":true,"first_name":"\u0423\u0447\u0435\u0431\u043d\u044b\u0439 \u0431\u043e\u0442","username":"lesson_study_bot"},"chat":{"id":738239478,"first_name":"\u041d\u0430\u0442\u0430\u043b\u0438 \u2022 \u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u0441\u0430\u0439\u0442\u043e\u0432 \u2022 \u0412\u0435\u0431-\u0434\u0438\u0437\u0430\u0439\u043d","username":"natalikrasnoperova","type":"private"},"date":1749128186,"text":"\u0423\u0447\u0435\u043d\u0438\u043a \u0410\u043d\u043d\u0430 \u041a\u0440\u0430\u0441\u043d\u0430\u044f \u043e\u0442\u043c\u0435\u043d\u0438\u043b \u0437\u0430\u043f\u0438\u0441\u044c \u043d\u0430 \u0443\u0440\u043e\u043a \"\u0423\u0440\u043e\u043a 2\" (05.06.2025 15:56)"}}
+                    [headers] => WpOrg\Requests\Response\Headers Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [server] => Array
+                                        (
+                                            [0] => nginx/1.18.0
+                                        )
+
+                                    [date] => Array
+                                        (
+                                            [0] => Thu, 05 Jun 2025 12:56:26 GMT
+                                        )
+
+                                    [content-type] => Array
+                                        (
+                                            [0] => application/json
+                                        )
+
+                                    [content-length] => Array
+                                        (
+                                            [0] => 777
+                                        )
+
+                                    [strict-transport-security] => Array
+                                        (
+                                            [0] => max-age=31536000; includeSubDomains; preload
+                                        )
+
+                                    [access-control-allow-origin] => Array
+                                        (
+                                            [0] => *
+                                        )
+
+                                    [access-control-allow-methods] => Array
+                                        (
+                                            [0] => GET, POST, OPTIONS
+                                        )
+
+                                    [access-control-expose-headers] => Array
+                                        (
+                                            [0] => Content-Length,Content-Type,Date,Server,Connection
+                                        )
+
+                                )
+
+                        )
+
+                    [status_code] => 200
+                    [protocol_version] => 1.1
+                    [success] => 1
+                    [redirects] => 0
+                    [url] => https://api.telegram.org/bot8041510676:AAFq3wKCjT-jX-KCCT3yql38bhL0IpzVcx4/sendMessage?chat_id=738239478&text=%D0%A3%D1%87%D0%B5%D0%BD%D0%B8%D0%BA+%D0%90%D0%BD%D0%BD%D0%B0+%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%B0%D1%8F+%D0%BE%D1%82%D0%BC%D0%B5%D0%BD%D0%B8%D0%BB+%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C+%D0%BD%D0%B0+%D1%83%D1%80%D0%BE%D0%BA+%22%D0%A3%D1%80%D0%BE%D0%BA+2%22+%2805.06.2025+15%3A56%29
+                    [history] => Array
+                        (
+                        )
+
+                    [cookies] => WpOrg\Requests\Cookie\Jar Object
+                        (
+                            [cookies:protected] => Array
+                                (
+                                )
+
+                        )
+
+                )
+
+            [filename:protected] => 
+        )
+
+)
+
+2025-06-05 17:05:59 Попытка для 15: Вы записались на урок "" 05.06.2025 20:05
+2025-06-05 17:05:59 Нет chat_id для 15
+2025-06-05 17:05:59 Попытка для 16: На урок "" (05.06.2025 20:05) записался ученик Никита Ошаров
+2025-06-05 17:05:59 Нет chat_id для 16
+2025-06-06 11:34:52 Попытка для 15: Вы записались на урок "Урок 1" 06.06.2025 14:34
+2025-06-06 11:34:52 Нет chat_id для 15
+2025-06-06 11:34:53 Попытка для 8: На урок "Урок 1" (06.06.2025 14:34) записался ученик Никита Ошаров
+2025-06-06 11:34:53 Telegram result: Array
+(
+    [headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+        (
+            [data:protected] => Array
+                (
+                    [server] => nginx/1.18.0
+                    [date] => Fri, 06 Jun 2025 11:34:53 GMT
+                    [content-type] => application/json
+                    [content-length] => 758
+                    [strict-transport-security] => max-age=31536000; includeSubDomains; preload
+                    [access-control-allow-origin] => *
+                    [access-control-allow-methods] => GET, POST, OPTIONS
+                    [access-control-expose-headers] => Content-Length,Content-Type,Date,Server,Connection
+                )
+
+        )
+
+    [body] => {"ok":true,"result":{"message_id":20,"from":{"id":8041510676,"is_bot":true,"first_name":"\u0423\u0447\u0435\u0431\u043d\u044b\u0439 \u0431\u043e\u0442","username":"lesson_study_bot"},"chat":{"id":738239478,"first_name":"\u041d\u0430\u0442\u0430\u043b\u0438 \u2022 \u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u0441\u0430\u0439\u0442\u043e\u0432 \u2022 \u0412\u0435\u0431-\u0434\u0438\u0437\u0430\u0439\u043d","username":"natalikrasnoperova","type":"private"},"date":1749209693,"text":"\u041d\u0430 \u0443\u0440\u043e\u043a \"\u0423\u0440\u043e\u043a 1\" (06.06.2025 14:34) \u0437\u0430\u043f\u0438\u0441\u0430\u043b\u0441\u044f \u0443\u0447\u0435\u043d\u0438\u043a \u041d\u0438\u043a\u0438\u0442\u0430 \u041e\u0448\u0430\u0440\u043e\u0432"}}
+    [response] => Array
+        (
+            [code] => 200
+            [message] => OK
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+    [http_response] => WP_HTTP_Requests_Response Object
+        (
+            [data] => 
+            [headers] => 
+            [status] => 
+            [response:protected] => WpOrg\Requests\Response Object
+                (
+                    [body] => {"ok":true,"result":{"message_id":20,"from":{"id":8041510676,"is_bot":true,"first_name":"\u0423\u0447\u0435\u0431\u043d\u044b\u0439 \u0431\u043e\u0442","username":"lesson_study_bot"},"chat":{"id":738239478,"first_name":"\u041d\u0430\u0442\u0430\u043b\u0438 \u2022 \u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u0441\u0430\u0439\u0442\u043e\u0432 \u2022 \u0412\u0435\u0431-\u0434\u0438\u0437\u0430\u0439\u043d","username":"natalikrasnoperova","type":"private"},"date":1749209693,"text":"\u041d\u0430 \u0443\u0440\u043e\u043a \"\u0423\u0440\u043e\u043a 1\" (06.06.2025 14:34) \u0437\u0430\u043f\u0438\u0441\u0430\u043b\u0441\u044f \u0443\u0447\u0435\u043d\u0438\u043a \u041d\u0438\u043a\u0438\u0442\u0430 \u041e\u0448\u0430\u0440\u043e\u0432"}}
+                    [raw] => HTTP/1.1 200 OK
+Server: nginx/1.18.0
+Date: Fri, 06 Jun 2025 11:34:53 GMT
+Content-Type: application/json
+Content-Length: 758
+Connection: close
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET, POST, OPTIONS
+Access-Control-Expose-Headers: Content-Length,Content-Type,Date,Server,Connection
+
+{"ok":true,"result":{"message_id":20,"from":{"id":8041510676,"is_bot":true,"first_name":"\u0423\u0447\u0435\u0431\u043d\u044b\u0439 \u0431\u043e\u0442","username":"lesson_study_bot"},"chat":{"id":738239478,"first_name":"\u041d\u0430\u0442\u0430\u043b\u0438 \u2022 \u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u0441\u0430\u0439\u0442\u043e\u0432 \u2022 \u0412\u0435\u0431-\u0434\u0438\u0437\u0430\u0439\u043d","username":"natalikrasnoperova","type":"private"},"date":1749209693,"text":"\u041d\u0430 \u0443\u0440\u043e\u043a \"\u0423\u0440\u043e\u043a 1\" (06.06.2025 14:34) \u0437\u0430\u043f\u0438\u0441\u0430\u043b\u0441\u044f \u0443\u0447\u0435\u043d\u0438\u043a \u041d\u0438\u043a\u0438\u0442\u0430 \u041e\u0448\u0430\u0440\u043e\u0432"}}
+                    [headers] => WpOrg\Requests\Response\Headers Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [server] => Array
+                                        (
+                                            [0] => nginx/1.18.0
+                                        )
+
+                                    [date] => Array
+                                        (
+                                            [0] => Fri, 06 Jun 2025 11:34:53 GMT
+                                        )
+
+                                    [content-type] => Array
+                                        (
+                                            [0] => application/json
+                                        )
+
+                                    [content-length] => Array
+                                        (
+                                            [0] => 758
+                                        )
+
+                                    [strict-transport-security] => Array
+                                        (
+                                            [0] => max-age=31536000; includeSubDomains; preload
+                                        )
+
+                                    [access-control-allow-origin] => Array
+                                        (
+                                            [0] => *
+                                        )
+
+                                    [access-control-allow-methods] => Array
+                                        (
+                                            [0] => GET, POST, OPTIONS
+                                        )
+
+                                    [access-control-expose-headers] => Array
+                                        (
+                                            [0] => Content-Length,Content-Type,Date,Server,Connection
+                                        )
+
+                                )
+
+                        )
+
+                    [status_code] => 200
+                    [protocol_version] => 1.1
+                    [success] => 1
+                    [redirects] => 0
+                    [url] => https://api.telegram.org/bot8041510676:AAFq3wKCjT-jX-KCCT3yql38bhL0IpzVcx4/sendMessage?chat_id=738239478&text=%D0%9D%D0%B0+%D1%83%D1%80%D0%BE%D0%BA+%22%D0%A3%D1%80%D0%BE%D0%BA+1%22+%2806.06.2025+14%3A34%29+%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D0%B0%D0%BB%D1%81%D1%8F+%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%BA+%D0%9D%D0%B8%D0%BA%D0%B8%D1%82%D0%B0+%D0%9E%D1%88%D0%B0%D1%80%D0%BE%D0%B2
+                    [history] => Array
+                        (
+                        )
+
+                    [cookies] => WpOrg\Requests\Cookie\Jar Object
+                        (
+                            [cookies:protected] => Array
+                                (
+                                )
+
+                        )
+
+                )
+
+            [filename:protected] => 
+        )
+
+)
+
+2025-06-26 13:55:16 Попытка для 11: Вы записались на урок "Урок: Времена английского языка" 26.06.2025 16:55
+2025-06-26 13:55:16 Нет chat_id для 11
+2025-06-26 13:55:17 Попытка для 8: На урок "Урок: Времена английского языка" (26.06.2025 16:55) записался ученик Анна Красная
+2025-06-26 13:55:17 Telegram result: Array
+(
+    [headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+        (
+            [data:protected] => Array
+                (
+                    [server] => nginx/1.18.0
+                    [date] => Thu, 26 Jun 2025 13:55:17 GMT
+                    [content-type] => application/json
+                    [content-length] => 892
+                    [strict-transport-security] => max-age=31536000; includeSubDomains; preload
+                    [access-control-allow-origin] => *
+                    [access-control-allow-methods] => GET, POST, OPTIONS
+                    [access-control-expose-headers] => Content-Length,Content-Type,Date,Server,Connection
+                )
+
+        )
+
+    [body] => {"ok":true,"result":{"message_id":21,"from":{"id":8041510676,"is_bot":true,"first_name":"\u0423\u0447\u0435\u0431\u043d\u044b\u0439 \u0431\u043e\u0442","username":"lesson_study_bot"},"chat":{"id":738239478,"first_name":"\u041d\u0430\u0442\u0430\u043b\u0438 \u2022 \u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u0441\u0430\u0439\u0442\u043e\u0432 \u2022 \u0412\u0435\u0431-\u0434\u0438\u0437\u0430\u0439\u043d","username":"natalikrasnoperova","type":"private"},"date":1750946117,"text":"\u041d\u0430 \u0443\u0440\u043e\u043a \"\u0423\u0440\u043e\u043a: \u0412\u0440\u0435\u043c\u0435\u043d\u0430 \u0430\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u043e\u0433\u043e \u044f\u0437\u044b\u043a\u0430\" (26.06.2025 16:55) \u0437\u0430\u043f\u0438\u0441\u0430\u043b\u0441\u044f \u0443\u0447\u0435\u043d\u0438\u043a \u0410\u043d\u043d\u0430 \u041a\u0440\u0430\u0441\u043d\u0430\u044f"}}
+    [response] => Array
+        (
+            [code] => 200
+            [message] => OK
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+    [http_response] => WP_HTTP_Requests_Response Object
+        (
+            [data] => 
+            [headers] => 
+            [status] => 
+            [response:protected] => WpOrg\Requests\Response Object
+                (
+                    [body] => {"ok":true,"result":{"message_id":21,"from":{"id":8041510676,"is_bot":true,"first_name":"\u0423\u0447\u0435\u0431\u043d\u044b\u0439 \u0431\u043e\u0442","username":"lesson_study_bot"},"chat":{"id":738239478,"first_name":"\u041d\u0430\u0442\u0430\u043b\u0438 \u2022 \u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u0441\u0430\u0439\u0442\u043e\u0432 \u2022 \u0412\u0435\u0431-\u0434\u0438\u0437\u0430\u0439\u043d","username":"natalikrasnoperova","type":"private"},"date":1750946117,"text":"\u041d\u0430 \u0443\u0440\u043e\u043a \"\u0423\u0440\u043e\u043a: \u0412\u0440\u0435\u043c\u0435\u043d\u0430 \u0430\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u043e\u0433\u043e \u044f\u0437\u044b\u043a\u0430\" (26.06.2025 16:55) \u0437\u0430\u043f\u0438\u0441\u0430\u043b\u0441\u044f \u0443\u0447\u0435\u043d\u0438\u043a \u0410\u043d\u043d\u0430 \u041a\u0440\u0430\u0441\u043d\u0430\u044f"}}
+                    [raw] => HTTP/1.1 200 OK
+Server: nginx/1.18.0
+Date: Thu, 26 Jun 2025 13:55:17 GMT
+Content-Type: application/json
+Content-Length: 892
+Connection: close
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET, POST, OPTIONS
+Access-Control-Expose-Headers: Content-Length,Content-Type,Date,Server,Connection
+
+{"ok":true,"result":{"message_id":21,"from":{"id":8041510676,"is_bot":true,"first_name":"\u0423\u0447\u0435\u0431\u043d\u044b\u0439 \u0431\u043e\u0442","username":"lesson_study_bot"},"chat":{"id":738239478,"first_name":"\u041d\u0430\u0442\u0430\u043b\u0438 \u2022 \u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u0441\u0430\u0439\u0442\u043e\u0432 \u2022 \u0412\u0435\u0431-\u0434\u0438\u0437\u0430\u0439\u043d","username":"natalikrasnoperova","type":"private"},"date":1750946117,"text":"\u041d\u0430 \u0443\u0440\u043e\u043a \"\u0423\u0440\u043e\u043a: \u0412\u0440\u0435\u043c\u0435\u043d\u0430 \u0430\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u043e\u0433\u043e \u044f\u0437\u044b\u043a\u0430\" (26.06.2025 16:55) \u0437\u0430\u043f\u0438\u0441\u0430\u043b\u0441\u044f \u0443\u0447\u0435\u043d\u0438\u043a \u0410\u043d\u043d\u0430 \u041a\u0440\u0430\u0441\u043d\u0430\u044f"}}
+                    [headers] => WpOrg\Requests\Response\Headers Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [server] => Array
+                                        (
+                                            [0] => nginx/1.18.0
+                                        )
+
+                                    [date] => Array
+                                        (
+                                            [0] => Thu, 26 Jun 2025 13:55:17 GMT
+                                        )
+
+                                    [content-type] => Array
+                                        (
+                                            [0] => application/json
+                                        )
+
+                                    [content-length] => Array
+                                        (
+                                            [0] => 892
+                                        )
+
+                                    [strict-transport-security] => Array
+                                        (
+                                            [0] => max-age=31536000; includeSubDomains; preload
+                                        )
+
+                                    [access-control-allow-origin] => Array
+                                        (
+                                            [0] => *
+                                        )
+
+                                    [access-control-allow-methods] => Array
+                                        (
+                                            [0] => GET, POST, OPTIONS
+                                        )
+
+                                    [access-control-expose-headers] => Array
+                                        (
+                                            [0] => Content-Length,Content-Type,Date,Server,Connection
+                                        )
+
+                                )
+
+                        )
+
+                    [status_code] => 200
+                    [protocol_version] => 1.1
+                    [success] => 1
+                    [redirects] => 0
+                    [url] => https://api.telegram.org/bot8041510676:AAFq3wKCjT-jX-KCCT3yql38bhL0IpzVcx4/sendMessage?chat_id=738239478&text=%D0%9D%D0%B0+%D1%83%D1%80%D0%BE%D0%BA+%22%D0%A3%D1%80%D0%BE%D0%BA%3A+%D0%92%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B0+%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B3%D0%BE+%D1%8F%D0%B7%D1%8B%D0%BA%D0%B0%22+%2826.06.2025+16%3A55%29+%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D0%B0%D0%BB%D1%81%D1%8F+%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%BA+%D0%90%D0%BD%D0%BD%D0%B0+%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%B0%D1%8F
+                    [history] => Array
+                        (
+                        )
+
+                    [cookies] => WpOrg\Requests\Cookie\Jar Object
+                        (
+                            [cookies:protected] => Array
+                                (
+                                )
+
+                        )
+
+                )
+
+            [filename:protected] => 
+        )
+
+)
+
+2025-06-26 13:57:43 Попытка для 11: Вы записались на урок "Урок 1" 26.06.2025 16:57
+2025-06-26 13:57:43 Нет chat_id для 11
+2025-06-26 13:57:43 Попытка для 8: На урок "Урок 1" (26.06.2025 16:57) записался ученик Анна Красная
+2025-06-26 13:57:44 Telegram result: Array
+(
+    [headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+        (
+            [data:protected] => Array
+                (
+                    [server] => nginx/1.18.0
+                    [date] => Thu, 26 Jun 2025 13:57:44 GMT
+                    [content-type] => application/json
+                    [content-length] => 752
+                    [strict-transport-security] => max-age=31536000; includeSubDomains; preload
+                    [access-control-allow-origin] => *
+                    [access-control-allow-methods] => GET, POST, OPTIONS
+                    [access-control-expose-headers] => Content-Length,Content-Type,Date,Server,Connection
+                )
+
+        )
+
+    [body] => {"ok":true,"result":{"message_id":22,"from":{"id":8041510676,"is_bot":true,"first_name":"\u0423\u0447\u0435\u0431\u043d\u044b\u0439 \u0431\u043e\u0442","username":"lesson_study_bot"},"chat":{"id":738239478,"first_name":"\u041d\u0430\u0442\u0430\u043b\u0438 \u2022 \u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u0441\u0430\u0439\u0442\u043e\u0432 \u2022 \u0412\u0435\u0431-\u0434\u0438\u0437\u0430\u0439\u043d","username":"natalikrasnoperova","type":"private"},"date":1750946263,"text":"\u041d\u0430 \u0443\u0440\u043e\u043a \"\u0423\u0440\u043e\u043a 1\" (26.06.2025 16:57) \u0437\u0430\u043f\u0438\u0441\u0430\u043b\u0441\u044f \u0443\u0447\u0435\u043d\u0438\u043a \u0410\u043d\u043d\u0430 \u041a\u0440\u0430\u0441\u043d\u0430\u044f"}}
+    [response] => Array
+        (
+            [code] => 200
+            [message] => OK
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+    [http_response] => WP_HTTP_Requests_Response Object
+        (
+            [data] => 
+            [headers] => 
+            [status] => 
+            [response:protected] => WpOrg\Requests\Response Object
+                (
+                    [body] => {"ok":true,"result":{"message_id":22,"from":{"id":8041510676,"is_bot":true,"first_name":"\u0423\u0447\u0435\u0431\u043d\u044b\u0439 \u0431\u043e\u0442","username":"lesson_study_bot"},"chat":{"id":738239478,"first_name":"\u041d\u0430\u0442\u0430\u043b\u0438 \u2022 \u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u0441\u0430\u0439\u0442\u043e\u0432 \u2022 \u0412\u0435\u0431-\u0434\u0438\u0437\u0430\u0439\u043d","username":"natalikrasnoperova","type":"private"},"date":1750946263,"text":"\u041d\u0430 \u0443\u0440\u043e\u043a \"\u0423\u0440\u043e\u043a 1\" (26.06.2025 16:57) \u0437\u0430\u043f\u0438\u0441\u0430\u043b\u0441\u044f \u0443\u0447\u0435\u043d\u0438\u043a \u0410\u043d\u043d\u0430 \u041a\u0440\u0430\u0441\u043d\u0430\u044f"}}
+                    [raw] => HTTP/1.1 200 OK
+Server: nginx/1.18.0
+Date: Thu, 26 Jun 2025 13:57:44 GMT
+Content-Type: application/json
+Content-Length: 752
+Connection: close
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET, POST, OPTIONS
+Access-Control-Expose-Headers: Content-Length,Content-Type,Date,Server,Connection
+
+{"ok":true,"result":{"message_id":22,"from":{"id":8041510676,"is_bot":true,"first_name":"\u0423\u0447\u0435\u0431\u043d\u044b\u0439 \u0431\u043e\u0442","username":"lesson_study_bot"},"chat":{"id":738239478,"first_name":"\u041d\u0430\u0442\u0430\u043b\u0438 \u2022 \u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u0441\u0430\u0439\u0442\u043e\u0432 \u2022 \u0412\u0435\u0431-\u0434\u0438\u0437\u0430\u0439\u043d","username":"natalikrasnoperova","type":"private"},"date":1750946263,"text":"\u041d\u0430 \u0443\u0440\u043e\u043a \"\u0423\u0440\u043e\u043a 1\" (26.06.2025 16:57) \u0437\u0430\u043f\u0438\u0441\u0430\u043b\u0441\u044f \u0443\u0447\u0435\u043d\u0438\u043a \u0410\u043d\u043d\u0430 \u041a\u0440\u0430\u0441\u043d\u0430\u044f"}}
+                    [headers] => WpOrg\Requests\Response\Headers Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [server] => Array
+                                        (
+                                            [0] => nginx/1.18.0
+                                        )
+
+                                    [date] => Array
+                                        (
+                                            [0] => Thu, 26 Jun 2025 13:57:44 GMT
+                                        )
+
+                                    [content-type] => Array
+                                        (
+                                            [0] => application/json
+                                        )
+
+                                    [content-length] => Array
+                                        (
+                                            [0] => 752
+                                        )
+
+                                    [strict-transport-security] => Array
+                                        (
+                                            [0] => max-age=31536000; includeSubDomains; preload
+                                        )
+
+                                    [access-control-allow-origin] => Array
+                                        (
+                                            [0] => *
+                                        )
+
+                                    [access-control-allow-methods] => Array
+                                        (
+                                            [0] => GET, POST, OPTIONS
+                                        )
+
+                                    [access-control-expose-headers] => Array
+                                        (
+                                            [0] => Content-Length,Content-Type,Date,Server,Connection
+                                        )
+
+                                )
+
+                        )
+
+                    [status_code] => 200
+                    [protocol_version] => 1.1
+                    [success] => 1
+                    [redirects] => 0
+                    [url] => https://api.telegram.org/bot8041510676:AAFq3wKCjT-jX-KCCT3yql38bhL0IpzVcx4/sendMessage?chat_id=738239478&text=%D0%9D%D0%B0+%D1%83%D1%80%D0%BE%D0%BA+%22%D0%A3%D1%80%D0%BE%D0%BA+1%22+%2826.06.2025+16%3A57%29+%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D0%B0%D0%BB%D1%81%D1%8F+%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%BA+%D0%90%D0%BD%D0%BD%D0%B0+%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%B0%D1%8F
+                    [history] => Array
+                        (
+                        )
+
+                    [cookies] => WpOrg\Requests\Cookie\Jar Object
+                        (
+                            [cookies:protected] => Array
+                                (
+                                )
+
+                        )
+
+                )
+
+            [filename:protected] => 
+        )
+
+)
+
+2025-06-26 13:57:59 Попытка для 11: Вы отменили запись на урок "Урок 1" 26.06.2025 16:57
+2025-06-26 13:57:59 Нет chat_id для 11
+2025-06-26 13:57:59 Попытка для 8: Ученик Анна Красная отменил запись на урок "Урок 1" (26.06.2025 16:57)
+2025-06-26 13:57:59 Telegram result: Array
+(
+    [headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+        (
+            [data:protected] => Array
+                (
+                    [server] => nginx/1.18.0
+                    [date] => Thu, 26 Jun 2025 13:57:59 GMT
+                    [content-type] => application/json
+                    [content-length] => 777
+                    [strict-transport-security] => max-age=31536000; includeSubDomains; preload
+                    [access-control-allow-origin] => *
+                    [access-control-allow-methods] => GET, POST, OPTIONS
+                    [access-control-expose-headers] => Content-Length,Content-Type,Date,Server,Connection
+                )
+
+        )
+
+    [body] => {"ok":true,"result":{"message_id":23,"from":{"id":8041510676,"is_bot":true,"first_name":"\u0423\u0447\u0435\u0431\u043d\u044b\u0439 \u0431\u043e\u0442","username":"lesson_study_bot"},"chat":{"id":738239478,"first_name":"\u041d\u0430\u0442\u0430\u043b\u0438 \u2022 \u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u0441\u0430\u0439\u0442\u043e\u0432 \u2022 \u0412\u0435\u0431-\u0434\u0438\u0437\u0430\u0439\u043d","username":"natalikrasnoperova","type":"private"},"date":1750946279,"text":"\u0423\u0447\u0435\u043d\u0438\u043a \u0410\u043d\u043d\u0430 \u041a\u0440\u0430\u0441\u043d\u0430\u044f \u043e\u0442\u043c\u0435\u043d\u0438\u043b \u0437\u0430\u043f\u0438\u0441\u044c \u043d\u0430 \u0443\u0440\u043e\u043a \"\u0423\u0440\u043e\u043a 1\" (26.06.2025 16:57)"}}
+    [response] => Array
+        (
+            [code] => 200
+            [message] => OK
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+    [http_response] => WP_HTTP_Requests_Response Object
+        (
+            [data] => 
+            [headers] => 
+            [status] => 
+            [response:protected] => WpOrg\Requests\Response Object
+                (
+                    [body] => {"ok":true,"result":{"message_id":23,"from":{"id":8041510676,"is_bot":true,"first_name":"\u0423\u0447\u0435\u0431\u043d\u044b\u0439 \u0431\u043e\u0442","username":"lesson_study_bot"},"chat":{"id":738239478,"first_name":"\u041d\u0430\u0442\u0430\u043b\u0438 \u2022 \u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u0441\u0430\u0439\u0442\u043e\u0432 \u2022 \u0412\u0435\u0431-\u0434\u0438\u0437\u0430\u0439\u043d","username":"natalikrasnoperova","type":"private"},"date":1750946279,"text":"\u0423\u0447\u0435\u043d\u0438\u043a \u0410\u043d\u043d\u0430 \u041a\u0440\u0430\u0441\u043d\u0430\u044f \u043e\u0442\u043c\u0435\u043d\u0438\u043b \u0437\u0430\u043f\u0438\u0441\u044c \u043d\u0430 \u0443\u0440\u043e\u043a \"\u0423\u0440\u043e\u043a 1\" (26.06.2025 16:57)"}}
+                    [raw] => HTTP/1.1 200 OK
+Server: nginx/1.18.0
+Date: Thu, 26 Jun 2025 13:57:59 GMT
+Content-Type: application/json
+Content-Length: 777
+Connection: close
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET, POST, OPTIONS
+Access-Control-Expose-Headers: Content-Length,Content-Type,Date,Server,Connection
+
+{"ok":true,"result":{"message_id":23,"from":{"id":8041510676,"is_bot":true,"first_name":"\u0423\u0447\u0435\u0431\u043d\u044b\u0439 \u0431\u043e\u0442","username":"lesson_study_bot"},"chat":{"id":738239478,"first_name":"\u041d\u0430\u0442\u0430\u043b\u0438 \u2022 \u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u0441\u0430\u0439\u0442\u043e\u0432 \u2022 \u0412\u0435\u0431-\u0434\u0438\u0437\u0430\u0439\u043d","username":"natalikrasnoperova","type":"private"},"date":1750946279,"text":"\u0423\u0447\u0435\u043d\u0438\u043a \u0410\u043d\u043d\u0430 \u041a\u0440\u0430\u0441\u043d\u0430\u044f \u043e\u0442\u043c\u0435\u043d\u0438\u043b \u0437\u0430\u043f\u0438\u0441\u044c \u043d\u0430 \u0443\u0440\u043e\u043a \"\u0423\u0440\u043e\u043a 1\" (26.06.2025 16:57)"}}
+                    [headers] => WpOrg\Requests\Response\Headers Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [server] => Array
+                                        (
+                                            [0] => nginx/1.18.0
+                                        )
+
+                                    [date] => Array
+                                        (
+                                            [0] => Thu, 26 Jun 2025 13:57:59 GMT
+                                        )
+
+                                    [content-type] => Array
+                                        (
+                                            [0] => application/json
+                                        )
+
+                                    [content-length] => Array
+                                        (
+                                            [0] => 777
+                                        )
+
+                                    [strict-transport-security] => Array
+                                        (
+                                            [0] => max-age=31536000; includeSubDomains; preload
+                                        )
+
+                                    [access-control-allow-origin] => Array
+                                        (
+                                            [0] => *
+                                        )
+
+                                    [access-control-allow-methods] => Array
+                                        (
+                                            [0] => GET, POST, OPTIONS
+                                        )
+
+                                    [access-control-expose-headers] => Array
+                                        (
+                                            [0] => Content-Length,Content-Type,Date,Server,Connection
+                                        )
+
+                                )
+
+                        )
+
+                    [status_code] => 200
+                    [protocol_version] => 1.1
+                    [success] => 1
+                    [redirects] => 0
+                    [url] => https://api.telegram.org/bot8041510676:AAFq3wKCjT-jX-KCCT3yql38bhL0IpzVcx4/sendMessage?chat_id=738239478&text=%D0%A3%D1%87%D0%B5%D0%BD%D0%B8%D0%BA+%D0%90%D0%BD%D0%BD%D0%B0+%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%B0%D1%8F+%D0%BE%D1%82%D0%BC%D0%B5%D0%BD%D0%B8%D0%BB+%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C+%D0%BD%D0%B0+%D1%83%D1%80%D0%BE%D0%BA+%22%D0%A3%D1%80%D0%BE%D0%BA+1%22+%2826.06.2025+16%3A57%29
+                    [history] => Array
+                        (
+                        )
+
+                    [cookies] => WpOrg\Requests\Cookie\Jar Object
+                        (
+                            [cookies:protected] => Array
+                                (
+                                )
+
+                        )
+
+                )
+
+            [filename:protected] => 
+        )
+
+)
+
+2025-06-26 13:58:05 Попытка для 11: Вы записались на урок "Урок 2" 26.06.2025 16:58
+2025-06-26 13:58:05 Нет chat_id для 11
+2025-06-26 13:58:05 Попытка для 8: На урок "Урок 2" (26.06.2025 16:58) записался ученик Анна Красная
+2025-06-26 13:58:06 Telegram result: Array
+(
+    [headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+        (
+            [data:protected] => Array
+                (
+                    [server] => nginx/1.18.0
+                    [date] => Thu, 26 Jun 2025 13:58:06 GMT
+                    [content-type] => application/json
+                    [content-length] => 752
+                    [strict-transport-security] => max-age=31536000; includeSubDomains; preload
+                    [access-control-allow-origin] => *
+                    [access-control-allow-methods] => GET, POST, OPTIONS
+                    [access-control-expose-headers] => Content-Length,Content-Type,Date,Server,Connection
+                )
+
+        )
+
+    [body] => {"ok":true,"result":{"message_id":24,"from":{"id":8041510676,"is_bot":true,"first_name":"\u0423\u0447\u0435\u0431\u043d\u044b\u0439 \u0431\u043e\u0442","username":"lesson_study_bot"},"chat":{"id":738239478,"first_name":"\u041d\u0430\u0442\u0430\u043b\u0438 \u2022 \u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u0441\u0430\u0439\u0442\u043e\u0432 \u2022 \u0412\u0435\u0431-\u0434\u0438\u0437\u0430\u0439\u043d","username":"natalikrasnoperova","type":"private"},"date":1750946286,"text":"\u041d\u0430 \u0443\u0440\u043e\u043a \"\u0423\u0440\u043e\u043a 2\" (26.06.2025 16:58) \u0437\u0430\u043f\u0438\u0441\u0430\u043b\u0441\u044f \u0443\u0447\u0435\u043d\u0438\u043a \u0410\u043d\u043d\u0430 \u041a\u0440\u0430\u0441\u043d\u0430\u044f"}}
+    [response] => Array
+        (
+            [code] => 200
+            [message] => OK
+        )
+
+    [cookies] => Array
+        (
+        )
+
+    [filename] => 
+    [http_response] => WP_HTTP_Requests_Response Object
+        (
+            [data] => 
+            [headers] => 
+            [status] => 
+            [response:protected] => WpOrg\Requests\Response Object
+                (
+                    [body] => {"ok":true,"result":{"message_id":24,"from":{"id":8041510676,"is_bot":true,"first_name":"\u0423\u0447\u0435\u0431\u043d\u044b\u0439 \u0431\u043e\u0442","username":"lesson_study_bot"},"chat":{"id":738239478,"first_name":"\u041d\u0430\u0442\u0430\u043b\u0438 \u2022 \u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u0441\u0430\u0439\u0442\u043e\u0432 \u2022 \u0412\u0435\u0431-\u0434\u0438\u0437\u0430\u0439\u043d","username":"natalikrasnoperova","type":"private"},"date":1750946286,"text":"\u041d\u0430 \u0443\u0440\u043e\u043a \"\u0423\u0440\u043e\u043a 2\" (26.06.2025 16:58) \u0437\u0430\u043f\u0438\u0441\u0430\u043b\u0441\u044f \u0443\u0447\u0435\u043d\u0438\u043a \u0410\u043d\u043d\u0430 \u041a\u0440\u0430\u0441\u043d\u0430\u044f"}}
+                    [raw] => HTTP/1.1 200 OK
+Server: nginx/1.18.0
+Date: Thu, 26 Jun 2025 13:58:06 GMT
+Content-Type: application/json
+Content-Length: 752
+Connection: close
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET, POST, OPTIONS
+Access-Control-Expose-Headers: Content-Length,Content-Type,Date,Server,Connection
+
+{"ok":true,"result":{"message_id":24,"from":{"id":8041510676,"is_bot":true,"first_name":"\u0423\u0447\u0435\u0431\u043d\u044b\u0439 \u0431\u043e\u0442","username":"lesson_study_bot"},"chat":{"id":738239478,"first_name":"\u041d\u0430\u0442\u0430\u043b\u0438 \u2022 \u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u0441\u0430\u0439\u0442\u043e\u0432 \u2022 \u0412\u0435\u0431-\u0434\u0438\u0437\u0430\u0439\u043d","username":"natalikrasnoperova","type":"private"},"date":1750946286,"text":"\u041d\u0430 \u0443\u0440\u043e\u043a \"\u0423\u0440\u043e\u043a 2\" (26.06.2025 16:58) \u0437\u0430\u043f\u0438\u0441\u0430\u043b\u0441\u044f \u0443\u0447\u0435\u043d\u0438\u043a \u0410\u043d\u043d\u0430 \u041a\u0440\u0430\u0441\u043d\u0430\u044f"}}
+                    [headers] => WpOrg\Requests\Response\Headers Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [server] => Array
+                                        (
+                                            [0] => nginx/1.18.0
+                                        )
+
+                                    [date] => Array
+                                        (
+                                            [0] => Thu, 26 Jun 2025 13:58:06 GMT
+                                        )
+
+                                    [content-type] => Array
+                                        (
+                                            [0] => application/json
+                                        )
+
+                                    [content-length] => Array
+                                        (
+                                            [0] => 752
+                                        )
+
+                                    [strict-transport-security] => Array
+                                        (
+                                            [0] => max-age=31536000; includeSubDomains; preload
+                                        )
+
+                                    [access-control-allow-origin] => Array
+                                        (
+                                            [0] => *
+                                        )
+
+                                    [access-control-allow-methods] => Array
+                                        (
+                                            [0] => GET, POST, OPTIONS
+                                        )
+
+                                    [access-control-expose-headers] => Array
+                                        (
+                                            [0] => Content-Length,Content-Type,Date,Server,Connection
+                                        )
+
+                                )
+
+                        )
+
+                    [status_code] => 200
+                    [protocol_version] => 1.1
+                    [success] => 1
+                    [redirects] => 0
+                    [url] => https://api.telegram.org/bot8041510676:AAFq3wKCjT-jX-KCCT3yql38bhL0IpzVcx4/sendMessage?chat_id=738239478&text=%D0%9D%D0%B0+%D1%83%D1%80%D0%BE%D0%BA+%22%D0%A3%D1%80%D0%BE%D0%BA+2%22+%2826.06.2025+16%3A58%29+%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D0%B0%D0%BB%D1%81%D1%8F+%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%BA+%D0%90%D0%BD%D0%BD%D0%B0+%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%B0%D1%8F
+                    [history] => Array
+                        (
+                        )
+
+                    [cookies] => WpOrg\Requests\Cookie\Jar Object
+                        (
+                            [cookies:protected] => Array
+                                (
+                                )
+
+                        )
+
+                )
+
+            [filename:protected] => 
+        )
+
+)
+
