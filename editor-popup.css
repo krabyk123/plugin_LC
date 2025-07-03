@@ -1,0 +1,99 @@
+/* общий контейнер попапов */
+.lc-modal {
+  display: none;
+  position: fixed;
+  top: 0; left: 0;
+  width: 100%; height: 100%;
+  background: rgba(0,0,0,0.3);
+  align-items: center;
+  justify-content: center;
+  z-index: 10000;
+}
+.lc-modal.open {
+  display: flex;
+}
+
+/* общий контент */
+.lc-modal .lc-content {
+  background: #fff;
+  border-radius: 12px;
+  padding: 24px;
+  width: 780px;
+  max-width: 95%;
+  position: relative;
+  display: grid;
+  grid-template-columns: 1fr 200px;
+  grid-gap: 20px;
+}
+
+/* форма редактора — растягиваем колонку */
+.editor-content {
+  grid-template-columns: 1fr;
+}
+
+/* крестик */
+.lc-modal .lc-close {
+  position: absolute;
+  top: 16px; right: 16px;
+  background: none; border: none;
+  font-size: 24px; cursor: pointer;
+}
+
+/* стили формы */
+#lc-edit-lesson-form .form-row {
+  margin-bottom: 16px;
+}
+#lc-edit-lesson-form label {
+  display: block;
+  font-weight: 600;
+  margin-bottom: 4px;
+}
+#lc-update-lesson {
+  background: #257eff;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 20px;
+  font-size: 15px;
+  cursor: pointer;
+}
+/* ========== Стили для полей даты/времени в форме урока ========== */
+#lc-new-lesson input[type="datetime-local"] {
+  /* Размеры и отступы */
+  width: 320px;
+  max-width: 100%;
+  height: 44px;
+  padding: 6px 12px;
+  box-sizing: border-box;
+
+  /* Шрифт и фон */
+  font-size: 16px;
+  color: #333;
+  background-color: #fff;
+
+  /* Рамка и скругления */
+  border: 1px solid #ccc;
+  border-radius: 6px;
+
+  /* Убираем системные «лишние» отступы */
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+/* Иконка календаря/времени — курсор указатель + отступы */
+#lc-new-lesson input[type="datetime-local"]::-webkit-calendar-picker-indicator {
+  cursor: pointer;
+  padding: 0 6px;
+}
+
+/* Скрываем системный крестик/очистку (Chrome) */
+#lc-new-lesson input[type="datetime-local"]::-webkit-clear-button {
+  display: none;
+}
+
+/* На фокусе подчёркиваем */
+#lc-new-lesson input[type="datetime-local"]:focus {
+  outline: none;
+  border-color: #257eff;
+  box-shadow: 0 0 0 2px rgba(37,126,255,0.2);
+}
